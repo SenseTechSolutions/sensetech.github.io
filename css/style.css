@@ -339,3 +339,12 @@
 #mission .mdl-card{
   margin-bottom: 10px;
 }
+
+.subheading {
+  margin: 5px;
+}
+
+p.h5 {
+  font-size: 20px;
+  font-weight: 400;
+}
